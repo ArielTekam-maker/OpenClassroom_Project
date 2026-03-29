@@ -1,0 +1,54 @@
+.aboutRobbie h1 {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.carre-style {
+    border-right: 1px #8e86b5 solid;
+    border-bottom: 1px #8e86b5 solid;
+    padding: 50px;
+    margin-bottom: 80px;
+    width: 50%;
+    margin: auto;
+}
+
+.carre-style ul,
+.carre-style h2 {
+    margin-top: 30px;
+}
+
+.carre-style + div {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 80px;
+}
+
+caption {
+    margin-bottom: 50px;
+}
+
+td, th {
+    border: 1px solid #8e86b5;
+}
+
+th {
+    padding: 15px;
+}
+
+td {
+    padding: 80px;
+}
+
+@media screen and (max-width: 996px) {
+    
+table {
+    display: none;
+}
+
+}
