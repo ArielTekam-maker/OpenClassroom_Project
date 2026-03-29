@@ -16,8 +16,11 @@ This project was built using ***\# HTML5*** and ***\# CSS3*** 💻, with a focus
 - Interactive UI components 🎨
 - Optimised performance ⚡
 
-## Project Preview
-[image](project.png)
+## Project Preview 🖼️
+<p align="center">
+  <img src="images/project-final-view/OpenClassroom_Project-View2.png" width="70%" />
+  <img src="images/project-final-view/OpenClassroom_Project-View3.png" width="70%" />
+</p>
 
 ## What I'm learning now 🌱
-I'm currently learning \# REACT to build a more polished project.🌱🙂
+I'm currently learning **\# REACT** to build a more polished project.🌱🙂
